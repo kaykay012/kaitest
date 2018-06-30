@@ -1,5 +1,5 @@
 {  
-  "name": "kaykay012/kaitest",  
+  "name": "k215/kaitest",  
   "description": "this a test repository of kai.",  
   "keywords": [  
     "yii2",  
@@ -25,7 +25,7 @@
   },  
   "autoload": {  
     "psr-4": {  
-      "kayka012\\": ""  
+      "kay012\\": ""  
     }  
   },  
   "config": {  
