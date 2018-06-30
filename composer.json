@@ -1,0 +1,34 @@
+{  
+  "name": "kaykay012/kaitest",  
+  "description": "this a test repository of kai.",  
+  "keywords": [  
+    "yii2",  
+    "kaitest"  
+  ],  
+  "homepage": "https://github.com/kaykay012/kaitest",  
+  "type": "yii2-extension",  
+  "license": "MIT",  
+  "support": {  
+    "source": "https://github.com/kaykay012/kaitest"  
+  },  
+  "authors": [  
+    {  
+      "name": "kai cui",  
+      "email": "kaykay012@sina.cn"  
+    }  
+  ],  
+  "minimum-stability": "stable",  
+  "require": {  
+    "php": ">=5.4.0",  
+    "yiisoft/yii2": ">=2.0.6"  
+     
+  },  
+  "autoload": {  
+    "psr-4": {  
+      "kayka012\\": ""  
+    }  
+  },  
+  "config": {  
+    "process-timeout": 1800  
+  }  
+}
